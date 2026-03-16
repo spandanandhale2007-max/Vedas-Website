@@ -1,27 +1,6 @@
-# Vedas-Website
+
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ancient Indian Vedas and Literature</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
-        header { background-color: #8B4513; color: white; padding: 20px; text-align: center; }
-        nav { background-color: #D2691E; padding: 10px; }
-        nav ul { list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; }
-        nav li { margin: 0 15px; }
-        nav a { color: white; text-decoration: none; font-weight: bold; }
-        nav a:hover { text-decoration: underline; }
-        .container { max-width: 1200px; margin: 20px auto; padding: 20px; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        section { margin-bottom: 40px; }
-        h2 { color: #8B4513; border-bottom: 2px solid #D2691E; padding-bottom: 10px; }
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
-        th { background-color: #D2691E; color: white; }
-        ul { padding-left: 20px; }
-        footer { background-color: #8B4513; color: white; text-align: center; padding: 10px; margin-top: 20px; }
-    </style>
+
 </head>
 <body>
     <header>
